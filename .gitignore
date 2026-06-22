@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project-specific exclusions
+.claude/
+09_BGM与素材/
+01_成片视频/*.mp4

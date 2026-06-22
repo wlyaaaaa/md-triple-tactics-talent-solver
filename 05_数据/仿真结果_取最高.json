@@ -1,0 +1,68 @@
+{
+  "n_sims": 100000000,
+  "n_monsters": 8944,
+  "templates": {
+    "v1": {
+      "additive": {
+        "round_mean": 150.71,
+        "total_mean": 452.13,
+        "floor_80": 350,
+        "floor_90": 320,
+        "floor_95": 290,
+        "floor_99": 240,
+        "round_min": 20,
+        "round_max": 750
+      },
+      "max_official": {
+        "round_mean": 95.46,
+        "total_mean": 286.39,
+        "floor_80": 210,
+        "floor_90": 190,
+        "floor_95": 170,
+        "floor_99": 150,
+        "round_min": 20,
+        "round_max": 300
+      },
+      "attr_pigeonhole_fail_rate": 25.23
+    },
+    "v2": {
+      "additive": {
+        "round_mean": 181.56,
+        "total_mean": 544.69,
+        "floor_80": 440,
+        "floor_90": 390,
+        "floor_95": 350,
+        "floor_99": 300,
+        "round_min": 20,
+        "round_max": 750
+      },
+      "max_official": {
+        "round_mean": 125.33,
+        "total_mean": 375.98,
+        "floor_80": 290,
+        "floor_90": 240,
+        "floor_95": 210,
+        "floor_99": 200,
+        "round_min": 20,
+        "round_max": 300
+      },
+      "attr_pigeonhole_fail_rate": 2.33
+    }
+  },
+  "hybrid_day1_is_v1": {
+    "max_official": {
+      "total_mean": 367.66,
+      "floor_80": 270,
+      "floor_90": 220,
+      "floor_95": 210,
+      "floor_99": 190
+    },
+    "additive": {
+      "total_mean": 533.67,
+      "floor_80": 420,
+      "floor_90": 370,
+      "floor_95": 340,
+      "floor_99": 270
+    }
+  }
+}

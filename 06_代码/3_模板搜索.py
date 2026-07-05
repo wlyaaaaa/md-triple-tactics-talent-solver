@@ -40,15 +40,14 @@ def main():
     all_races = list(set(n["race"] for n in nodes))
     all_atks = list(set(n["atk"] for n in nodes))
 
-    # 目标属性模板（严格三日无交集对冲）：
-    # Day 1: DARK, DARK, WATER   (覆盖 DARK, WATER)
-    # Day 2: LIGHT, LIGHT, WIND   (覆盖 LIGHT, WIND)
-    # Day 3: EARTH, EARTH, FIRE   (覆盖 EARTH, FIRE)
-    # 物理覆盖全部6个属性，且每天的属性集互不重合，消除天级收益正相关性
+    # 将原 2.0 属性模板修改为 3.0 混合对冲模板：
+    # Day 1: DARK, EARTH, LIGHT (1.0 黄金不重复)
+    # Day 2: WATER, WIND, FIRE (1.0 黄金冷门不重复)
+    # Day 3: DARK, DARK, WATER (2.0 重注双压)
     attributes_template = [
-        "DARK", "DARK", "WATER",  # Day 1
-        "LIGHT", "LIGHT", "WIND",  # Day 2
-        "EARTH", "EARTH", "FIRE"   # Day 3
+        "DARK", "EARTH", "LIGHT",  # Day 1
+        "WATER", "WIND", "FIRE",    # Day 2
+        "DARK", "DARK", "WATER"     # Day 3
     ]
 
     print("[+] 启动启发式随机贪心搜索 (Randomized Greedy Search)...")

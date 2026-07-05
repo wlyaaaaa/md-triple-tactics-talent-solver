@@ -1,436 +1,88 @@
 [
   {
     "rank": 1,
-    "total_card_count": 215,
+    "total_card_count": 128,
     "template": [
       {
         "day": 1,
         "card_idx": 1,
-        "attribute": "DARK",
-        "race": "Fiend",
-        "atk": 0,
-        "card_count": 75,
-        "sample_cards": "Absolute King Back Jack, Alice, Lady of Lament, Armityle the Chaos Phantasm"
-      },
-      {
-        "day": 1,
-        "card_idx": 2,
-        "attribute": "DARK",
-        "race": "Dragon",
-        "atk": 2500,
-        "card_count": 27,
-        "sample_cards": "Alba-Lenatus the Abyss Dragon, Albion the Branded Dragon, Albion the Shrouded Dragon"
-      },
-      {
-        "day": 1,
-        "card_idx": 3,
-        "attribute": "WATER",
-        "race": "Spellcaster",
-        "atk": 1500,
-        "card_count": 7,
-        "sample_cards": "Avance, Swordsman of the Nekroz, Gemini Summoner, Gishki Avance"
-      },
-      {
-        "day": 2,
-        "card_idx": 1,
-        "attribute": "LIGHT",
-        "race": "Fairy",
-        "atk": 1600,
-        "card_count": 17,
-        "sample_cards": "Arcana Force VI - The Lovers, Aria the Melodious Diva, Artifact Caduceus"
-      },
-      {
-        "day": 2,
-        "card_idx": 2,
-        "attribute": "LIGHT",
-        "race": "Machine",
-        "atk": 1000,
-        "card_count": 17,
-        "sample_cards": "Cipher Biplane, Cyber Jormungardr, Flying Saucer Muusik'i"
-      },
-      {
-        "day": 2,
-        "card_idx": 3,
-        "attribute": "WIND",
-        "race": "Winged Beast",
-        "atk": 1200,
-        "card_count": 11,
-        "sample_cards": "Dragunity Legionnaire, Dragunity Quirinus, Harpie Dancer"
-      },
-      {
-        "day": 3,
-        "card_idx": 1,
         "attribute": "EARTH",
         "race": "Warrior",
+        "atk": 1200,
+        "card_count": 21,
+        "sample_cards": "Amazoness Princess, Amazoness Silver Sword Master, Beat, Bladesman Fur Hire"
+      },
+      {
+        "day": 1,
+        "card_idx": 2,
+        "attribute": "LIGHT",
+        "race": "Fairy",
+        "atk": 0,
+        "card_count": 25,
+        "sample_cards": "Arahime the Manifested Mikanko, Arcana Force 0 - The Fool, Consecrated Light"
+      },
+      {
+        "day": 1,
+        "card_idx": 3,
+        "attribute": "DARK",
+        "race": "Spellcaster",
         "atk": 1800,
-        "card_count": 32,
-        "sample_cards": "Absolute Crusader, Argostars - Glorious Adra, Assault Mercenary"
+        "card_count": 14,
+        "sample_cards": "Aleister the Invoker of Madness, Crowley, the Gifted Magistus, Crowley, the Magistus of Grimoires"
+      },
+      {
+        "day": 2,
+        "card_idx": 1,
+        "attribute": "LIGHT",
+        "race": "Dragon",
+        "atk": 2500,
+        "card_count": 19,
+        "sample_cards": "Ancient Fairy Life Dragon, Azure-Eyes Silver Dragon, Blue-Eyes Abyss Dragon"
+      },
+      {
+        "day": 2,
+        "card_idx": 2,
+        "attribute": "WATER",
+        "race": "Machine",
+        "atk": 1500,
+        "card_count": 7,
+        "sample_cards": "Amphibious Bugroth MK-3, Appliancer Laundry Dragon, Crystron Halqifibrax"
+      },
+      {
+        "day": 2,
+        "card_idx": 3,
+        "attribute": "FIRE",
+        "race": "Fiend",
+        "atk": 2000,
+        "card_count": 4,
+        "sample_cards": "D/D/D Flame King Genghis, Evil HERO Infernal Sniper, Gallugallud the Endless Enigma"
+      },
+      {
+        "day": 3,
+        "card_idx": 1,
+        "attribute": "WIND",
+        "race": "Winged Beast",
+        "atk": 1000,
+        "card_count": 11,
+        "sample_cards": "Barrier Statue of the Stormwinds, Dark Bat, Gusto Codor"
       },
       {
         "day": 3,
         "card_idx": 2,
+        "attribute": "DARK",
+        "race": "Cyberse",
+        "atk": 1600,
+        "card_count": 3,
+        "sample_cards": "Backlinker, Brute Enforcer, Pentestag"
+      },
+      {
+        "day": 3,
+        "card_idx": 3,
         "attribute": "EARTH",
         "race": "Beast",
         "atk": 800,
         "card_count": 24,
         "sample_cards": "Baby Raccoon Ponpoko, Chow Chow Chan, Dark Cat with White Tail"
-      },
-      {
-        "day": 3,
-        "card_idx": 3,
-        "attribute": "FIRE",
-        "race": "Cyberse",
-        "atk": 2000,
-        "card_count": 5,
-        "sample_cards": "Auram the World Chalice Blademaster, DPH Gendamoore, Salamangreat Miragestallio"
-      }
-    ]
-  },
-  {
-    "rank": 2,
-    "total_card_count": 215,
-    "template": [
-      {
-        "day": 1,
-        "card_idx": 1,
-        "attribute": "DARK",
-        "race": "Dragon",
-        "atk": 2500,
-        "card_count": 27,
-        "sample_cards": "Alba-Lenatus the Abyss Dragon, Albion the Branded Dragon, Albion the Shrouded Dragon"
-      },
-      {
-        "day": 1,
-        "card_idx": 2,
-        "attribute": "DARK",
-        "race": "Fiend",
-        "atk": 0,
-        "card_count": 75,
-        "sample_cards": "Absolute King Back Jack, Alice, Lady of Lament, Armityle the Chaos Phantasm"
-      },
-      {
-        "day": 1,
-        "card_idx": 3,
-        "attribute": "WATER",
-        "race": "Spellcaster",
-        "atk": 1500,
-        "card_count": 7,
-        "sample_cards": "Avance, Swordsman of the Nekroz, Gemini Summoner, Gishki Avance"
-      },
-      {
-        "day": 2,
-        "card_idx": 1,
-        "attribute": "LIGHT",
-        "race": "Machine",
-        "atk": 1000,
-        "card_count": 17,
-        "sample_cards": "Cipher Biplane, Cyber Jormungardr, Flying Saucer Muusik'i"
-      },
-      {
-        "day": 2,
-        "card_idx": 2,
-        "attribute": "LIGHT",
-        "race": "Fairy",
-        "atk": 1600,
-        "card_count": 17,
-        "sample_cards": "Arcana Force VI - The Lovers, Aria the Melodious Diva, Artifact Caduceus"
-      },
-      {
-        "day": 2,
-        "card_idx": 3,
-        "attribute": "WIND",
-        "race": "Winged Beast",
-        "atk": 1200,
-        "card_count": 11,
-        "sample_cards": "Dragunity Legionnaire, Dragunity Quirinus, Harpie Dancer"
-      },
-      {
-        "day": 3,
-        "card_idx": 1,
-        "attribute": "EARTH",
-        "race": "Beast",
-        "atk": 800,
-        "card_count": 24,
-        "sample_cards": "Baby Raccoon Ponpoko, Chow Chow Chan, Dark Cat with White Tail"
-      },
-      {
-        "day": 3,
-        "card_idx": 2,
-        "attribute": "EARTH",
-        "race": "Warrior",
-        "atk": 1800,
-        "card_count": 32,
-        "sample_cards": "Absolute Crusader, Argostars - Glorious Adra, Assault Mercenary"
-      },
-      {
-        "day": 3,
-        "card_idx": 3,
-        "attribute": "FIRE",
-        "race": "Cyberse",
-        "atk": 2000,
-        "card_count": 5,
-        "sample_cards": "Auram the World Chalice Blademaster, DPH Gendamoore, Salamangreat Miragestallio"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "total_card_count": 215,
-    "template": [
-      {
-        "day": 1,
-        "card_idx": 1,
-        "attribute": "DARK",
-        "race": "Dragon",
-        "atk": 2500,
-        "card_count": 27,
-        "sample_cards": "Alba-Lenatus the Abyss Dragon, Albion the Branded Dragon, Albion the Shrouded Dragon"
-      },
-      {
-        "day": 1,
-        "card_idx": 2,
-        "attribute": "DARK",
-        "race": "Fiend",
-        "atk": 0,
-        "card_count": 75,
-        "sample_cards": "Absolute King Back Jack, Alice, Lady of Lament, Armityle the Chaos Phantasm"
-      },
-      {
-        "day": 1,
-        "card_idx": 3,
-        "attribute": "WATER",
-        "race": "Spellcaster",
-        "atk": 1500,
-        "card_count": 7,
-        "sample_cards": "Avance, Swordsman of the Nekroz, Gemini Summoner, Gishki Avance"
-      },
-      {
-        "day": 2,
-        "card_idx": 1,
-        "attribute": "LIGHT",
-        "race": "Machine",
-        "atk": 1000,
-        "card_count": 17,
-        "sample_cards": "Cipher Biplane, Cyber Jormungardr, Flying Saucer Muusik'i"
-      },
-      {
-        "day": 2,
-        "card_idx": 2,
-        "attribute": "LIGHT",
-        "race": "Fairy",
-        "atk": 1600,
-        "card_count": 17,
-        "sample_cards": "Arcana Force VI - The Lovers, Aria the Melodious Diva, Artifact Caduceus"
-      },
-      {
-        "day": 2,
-        "card_idx": 3,
-        "attribute": "WIND",
-        "race": "Winged Beast",
-        "atk": 1200,
-        "card_count": 11,
-        "sample_cards": "Dragunity Legionnaire, Dragunity Quirinus, Harpie Dancer"
-      },
-      {
-        "day": 3,
-        "card_idx": 1,
-        "attribute": "EARTH",
-        "race": "Warrior",
-        "atk": 1800,
-        "card_count": 32,
-        "sample_cards": "Absolute Crusader, Argostars - Glorious Adra, Assault Mercenary"
-      },
-      {
-        "day": 3,
-        "card_idx": 2,
-        "attribute": "EARTH",
-        "race": "Beast",
-        "atk": 800,
-        "card_count": 24,
-        "sample_cards": "Baby Raccoon Ponpoko, Chow Chow Chan, Dark Cat with White Tail"
-      },
-      {
-        "day": 3,
-        "card_idx": 3,
-        "attribute": "FIRE",
-        "race": "Cyberse",
-        "atk": 2000,
-        "card_count": 5,
-        "sample_cards": "Auram the World Chalice Blademaster, DPH Gendamoore, Salamangreat Miragestallio"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "total_card_count": 215,
-    "template": [
-      {
-        "day": 1,
-        "card_idx": 1,
-        "attribute": "DARK",
-        "race": "Fiend",
-        "atk": 0,
-        "card_count": 75,
-        "sample_cards": "Absolute King Back Jack, Alice, Lady of Lament, Armityle the Chaos Phantasm"
-      },
-      {
-        "day": 1,
-        "card_idx": 2,
-        "attribute": "DARK",
-        "race": "Dragon",
-        "atk": 2500,
-        "card_count": 27,
-        "sample_cards": "Alba-Lenatus the Abyss Dragon, Albion the Branded Dragon, Albion the Shrouded Dragon"
-      },
-      {
-        "day": 1,
-        "card_idx": 3,
-        "attribute": "WATER",
-        "race": "Spellcaster",
-        "atk": 1500,
-        "card_count": 7,
-        "sample_cards": "Avance, Swordsman of the Nekroz, Gemini Summoner, Gishki Avance"
-      },
-      {
-        "day": 2,
-        "card_idx": 1,
-        "attribute": "LIGHT",
-        "race": "Machine",
-        "atk": 1000,
-        "card_count": 17,
-        "sample_cards": "Cipher Biplane, Cyber Jormungardr, Flying Saucer Muusik'i"
-      },
-      {
-        "day": 2,
-        "card_idx": 2,
-        "attribute": "LIGHT",
-        "race": "Fairy",
-        "atk": 1600,
-        "card_count": 17,
-        "sample_cards": "Arcana Force VI - The Lovers, Aria the Melodious Diva, Artifact Caduceus"
-      },
-      {
-        "day": 2,
-        "card_idx": 3,
-        "attribute": "WIND",
-        "race": "Winged Beast",
-        "atk": 1200,
-        "card_count": 11,
-        "sample_cards": "Dragunity Legionnaire, Dragunity Quirinus, Harpie Dancer"
-      },
-      {
-        "day": 3,
-        "card_idx": 1,
-        "attribute": "EARTH",
-        "race": "Beast",
-        "atk": 800,
-        "card_count": 24,
-        "sample_cards": "Baby Raccoon Ponpoko, Chow Chow Chan, Dark Cat with White Tail"
-      },
-      {
-        "day": 3,
-        "card_idx": 2,
-        "attribute": "EARTH",
-        "race": "Warrior",
-        "atk": 1800,
-        "card_count": 32,
-        "sample_cards": "Absolute Crusader, Argostars - Glorious Adra, Assault Mercenary"
-      },
-      {
-        "day": 3,
-        "card_idx": 3,
-        "attribute": "FIRE",
-        "race": "Cyberse",
-        "atk": 2000,
-        "card_count": 5,
-        "sample_cards": "Auram the World Chalice Blademaster, DPH Gendamoore, Salamangreat Miragestallio"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "total_card_count": 215,
-    "template": [
-      {
-        "day": 1,
-        "card_idx": 1,
-        "attribute": "DARK",
-        "race": "Dragon",
-        "atk": 2500,
-        "card_count": 27,
-        "sample_cards": "Alba-Lenatus the Abyss Dragon, Albion the Branded Dragon, Albion the Shrouded Dragon"
-      },
-      {
-        "day": 1,
-        "card_idx": 2,
-        "attribute": "DARK",
-        "race": "Fiend",
-        "atk": 0,
-        "card_count": 75,
-        "sample_cards": "Absolute King Back Jack, Alice, Lady of Lament, Armityle the Chaos Phantasm"
-      },
-      {
-        "day": 1,
-        "card_idx": 3,
-        "attribute": "WATER",
-        "race": "Spellcaster",
-        "atk": 1500,
-        "card_count": 7,
-        "sample_cards": "Avance, Swordsman of the Nekroz, Gemini Summoner, Gishki Avance"
-      },
-      {
-        "day": 2,
-        "card_idx": 1,
-        "attribute": "LIGHT",
-        "race": "Fairy",
-        "atk": 1600,
-        "card_count": 17,
-        "sample_cards": "Arcana Force VI - The Lovers, Aria the Melodious Diva, Artifact Caduceus"
-      },
-      {
-        "day": 2,
-        "card_idx": 2,
-        "attribute": "LIGHT",
-        "race": "Machine",
-        "atk": 1000,
-        "card_count": 17,
-        "sample_cards": "Cipher Biplane, Cyber Jormungardr, Flying Saucer Muusik'i"
-      },
-      {
-        "day": 2,
-        "card_idx": 3,
-        "attribute": "WIND",
-        "race": "Winged Beast",
-        "atk": 1200,
-        "card_count": 11,
-        "sample_cards": "Dragunity Legionnaire, Dragunity Quirinus, Harpie Dancer"
-      },
-      {
-        "day": 3,
-        "card_idx": 1,
-        "attribute": "EARTH",
-        "race": "Warrior",
-        "atk": 1800,
-        "card_count": 32,
-        "sample_cards": "Absolute Crusader, Argostars - Glorious Adra, Assault Mercenary"
-      },
-      {
-        "day": 3,
-        "card_idx": 2,
-        "attribute": "EARTH",
-        "race": "Beast",
-        "atk": 800,
-        "card_count": 24,
-        "sample_cards": "Baby Raccoon Ponpoko, Chow Chow Chan, Dark Cat with White Tail"
-      },
-      {
-        "day": 3,
-        "card_idx": 3,
-        "attribute": "FIRE",
-        "race": "Cyberse",
-        "atk": 2000,
-        "card_count": 5,
-        "sample_cards": "Auram the World Chalice Blademaster, DPH Gendamoore, Salamangreat Miragestallio"
       }
     ]
   }

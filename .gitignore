@@ -11,3 +11,20 @@ Thumbs.db
 .claude/
 09_BGM与素材/
 01_成片视频/*.mp4
+
+# Generated scratch outputs and screenshots. Canonical reports/data live in
+# 03_策略报告/ and 05_数据/.
+/三战之才*.md
+/三战之才*.pdf
+/active_feature_nodes.csv
+/candidate_templates.json
+/2K.SVG
+/card.png
+/PixPin_*.png
+06_代码/v2_frames/
+06_代码/三战之才*.md
+06_代码/三战之才*.pdf
+06_代码/md_monsters_active.csv
+06_代码/active_feature_nodes.csv
+06_代码/candidate_templates.json
+06_代码/corrected_sim_results.json
